@@ -29,3 +29,5 @@
   4. Division.
 
   In addition, it has a **Gray code** address generator to allocated results to the correct location in the RAM.
+
+  *P.S: The RAR file has all of the files of the project in one package.*
